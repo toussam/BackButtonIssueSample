@@ -1,12 +1,13 @@
 ﻿//using Android.Support.V4.Widget;
 //using Android.Support.V7.Widget;
 //using BackButtonIssueSample.Droid;
+//using BackButtonIssueSample.Droid.Renderers;
 //using Xamarin.Forms;
 //using Xamarin.Forms.Platform.Android;
 //using Xamarin.Forms.Platform.Android.AppCompat;
 
 //[assembly: ExportRenderer(typeof(NavigationPage), typeof(CustomNavigationPageRenderer))]
-//namespace BackButtonIssueSample.Droid
+//namespace BackButtonIssueSample.Droid.Renderers
 //{
 //    /// <summary>
 //    /// This custom renderer is coming from someone who had the same issue and resolved it with thanks to this code.

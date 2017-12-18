@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackButtonIssueSample.Andro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackButtonIssueSample", "BackButtonIssueSample\BackButtonIssueSample\BackButtonIssueSample.csproj", "{C58B8AF2-0E0F-4990-B5DB-B450747799E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackButtonIssueSample.iOS", "BackButtonIssueSample\BackButtonIssueSample.iOS\BackButtonIssueSample.iOS.csproj", "{6428919C-E1A4-45A4-A180-24512A09F0E1}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU
@@ -85,26 +83,6 @@ Global
 		{C58B8AF2-0E0F-4990-B5DB-B450747799E0}.Release|iPhone.Build.0 = Release|Any CPU
 		{C58B8AF2-0E0F-4990-B5DB-B450747799E0}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{C58B8AF2-0E0F-4990-B5DB-B450747799E0}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
-		{6428919C-E1A4-45A4-A180-24512A09F0E1}.Ad-Hoc|Any CPU.ActiveCfg = Ad-Hoc|iPhoneSimulator
-		{6428919C-E1A4-45A4-A180-24512A09F0E1}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
-		{6428919C-E1A4-45A4-A180-24512A09F0E1}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
-		{6428919C-E1A4-45A4-A180-24512A09F0E1}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Ad-Hoc|iPhoneSimulator
-		{6428919C-E1A4-45A4-A180-24512A09F0E1}.Ad-Hoc|iPhoneSimulator.Build.0 = Ad-Hoc|iPhoneSimulator
-		{6428919C-E1A4-45A4-A180-24512A09F0E1}.AppStore|Any CPU.ActiveCfg = AppStore|iPhoneSimulator
-		{6428919C-E1A4-45A4-A180-24512A09F0E1}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
-		{6428919C-E1A4-45A4-A180-24512A09F0E1}.AppStore|iPhone.Build.0 = AppStore|iPhone
-		{6428919C-E1A4-45A4-A180-24512A09F0E1}.AppStore|iPhoneSimulator.ActiveCfg = AppStore|iPhoneSimulator
-		{6428919C-E1A4-45A4-A180-24512A09F0E1}.AppStore|iPhoneSimulator.Build.0 = AppStore|iPhoneSimulator
-		{6428919C-E1A4-45A4-A180-24512A09F0E1}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
-		{6428919C-E1A4-45A4-A180-24512A09F0E1}.Debug|iPhone.ActiveCfg = Debug|iPhone
-		{6428919C-E1A4-45A4-A180-24512A09F0E1}.Debug|iPhone.Build.0 = Debug|iPhone
-		{6428919C-E1A4-45A4-A180-24512A09F0E1}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
-		{6428919C-E1A4-45A4-A180-24512A09F0E1}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
-		{6428919C-E1A4-45A4-A180-24512A09F0E1}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
-		{6428919C-E1A4-45A4-A180-24512A09F0E1}.Release|iPhone.ActiveCfg = Release|iPhone
-		{6428919C-E1A4-45A4-A180-24512A09F0E1}.Release|iPhone.Build.0 = Release|iPhone
-		{6428919C-E1A4-45A4-A180-24512A09F0E1}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
-		{6428919C-E1A4-45A4-A180-24512A09F0E1}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
